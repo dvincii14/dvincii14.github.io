@@ -1,0 +1,25 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 6rem ;
+    background-image: url(img/nebula.jpg);
+    
+}
+#project {
+    background-color: #131116;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+#footer {
+    background-color: #131116;
+}
+
+#about {
+    padding-top: 5rem;
+}
+
